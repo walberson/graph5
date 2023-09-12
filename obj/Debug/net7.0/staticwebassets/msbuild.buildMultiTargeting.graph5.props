@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\graph5.props" />
+</Project>
